@@ -84,7 +84,6 @@ MongoDB
 Git
 API credentials for the required integrations
 Clone the repository
-git clone https://github.com/Ananthu-R-S/IntellMeet.git cd IntellMeet
 
 Install frontend dependencies
 npm install
