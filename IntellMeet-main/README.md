@@ -96,8 +96,6 @@ Prerequisites
 
 1. Clone the repository
 
-git clone https://github.com/Ananthu-R-S/IntellMeet.git
-cd IntellMeet
 
 2. Install frontend dependencies
 
@@ -140,10 +138,4 @@ Future Improvements
 - Additional enterprise collaboration features.
 - Further AI-powered meeting assistance.
 
-Author
 
-Ananthu R S
-
-GitHub: https://github.com/Ananthu-R-S
-
-LinkedIn: https://linkedin.com/in/ananthu-r-s-462060319
